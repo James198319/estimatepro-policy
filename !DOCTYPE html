@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>개인정보처리방침 - EstimatePro</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: "Arial", sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>개인정보처리방침</h1>
+    <p><strong>EstimatePro</strong> 금속창호앱은 사용자의 개인정보 보호를 중요하게 생각하며, 아래와 같이 개인정보를 처리합니다.</p>
+
+    <h2>1. 수집하는 개인정보 항목</h2>
+    <p>EstimatePro 앱은 고객의 이름, 전화번호 등의 개인정보를 수집하지 않으며, 다음과 같은 정보만 수집할 수 있습니다:</p>
+    <ul>
+        <li>Firebase 인증 시 Google 계정 이메일</li>
+        <li>위치정보 (자재 발주 및 근처 지도 검색을 위한 용도)</li>
+    </ul>
+
+    <h2>2. 개인정보 수집 및 이용 목적</h2>
+    <p>금속창호앱은 다음의 목적을 위해 개인정보를 이용합니다:</p>
+    <ul>
+        <li>사용자 인증 (Firebase 로그인)</li>
+        <li>견적 저장 및 자재 발주 기능 제공</li>
+        <li>주변 위치 기반 검색</li>
+    </ul>
+
+    <h2>3. 개인정보 보유 및 이용기간</h2>
+    <p>수집된 정보는 서비스 제공 목적 달성 시 즉시 파기되며, 별도로 저장하거나 보관하지 않습니다.</p>
+
+    <h2>4. 개인정보의 제3자 제공</h2>
+    <p>EstimatePro 앱은 수집된 개인정보를 외부에 제공하지 않으며, 제3자에게 판매 또는 공유하지 않습니다.</p>
+
+    <h2>5. 사용자 권리</h2>
+    <p>사용자는 언제든지 앱 내 설정을 통해 계정을 삭제할 수 있으며, Firebase 계정을 통해 개인정보 삭제 요청이 가능합니다.</p>
+
+    <h2>6. 문의</h2>
+    <p>앱 관련 문의는 개발자 이메일(예: kodeng22@naver.com)로 문의해 주시기 바랍니다.</p>
+
+    <p>본 방침은 2025년 5월 기준으로 적용됩니다.</p>
+</body>
+</html>
